@@ -1,0 +1,34 @@
+Category,Component,Specification,Quantity,Unit Price (€),Total (€),Supplier,Notes
+Flight Control,Matek F405-CTR,Flight Controller,1,60,60,Banggood/AliExpress,With OSD
+Motors,T-Motor F40 Pro IV,2400KV,3,35,105,Banggood,Y-config requires 3
+ESC,Tekko32 F4,35A 4-in-1 ESC,1,50,50,AliExpress,Alternative: 3x individual ESC
+Propellers,HQProp 5.1x4.1x3,Tri-blade props,4,4,16,Local hobby shop,Buy extra sets
+Battery,Tattu 4S 1550mAh,75C LiPo,2,35,70,Local hobby shop,Safety: local purchase
+Charger,ISDT Q6 Nano,Balance charger,1,45,45,AliExpress,Smart charging
+Power Distribution,Matek PDB,Power distribution board,1,8,8,Banggood,If not using 4-in-1 ESC
+Sensors,MPU9250,9-axis IMU,2,5,10,AliExpress,Buy backup
+Sensors,BMP280,Barometer,1,3,3,AliExpress,Optional altitude hold
+Microcontroller,ESP32 DevKit V1,WiFi/Bluetooth MCU,2,6,12,AliExpress,Glove + drone receiver
+Power,18650 Battery,3.7V Li-ion,1,5,5,Local electronics,For glove power
+Power,18650 Holder,Battery holder,1,2,2,AliExpress,
+Connectors,XT60,Battery connector,5,1,5,AliExpress,Male + female pairs
+Connectors,JST,Various sizes,10,0.5,5,AliExpress,Signal cables
+Connectors,Servo leads,Wire set,1,5,5,Banggood,Pre-crimped
+Frame,Carbon fiber plate,2mm 200x300mm,1,15,15,AliExpress/Local,Main structure
+Frame,Carbon fiber plate,3mm 150x150mm,1,12,12,AliExpress/Local,Motor mounts
+Frame,Aluminum tube,10mm diameter 500mm,1,8,8,Hardware store,Handle core (optional)
+Hardware,M3 screws & nuts,Assorted lengths,1,10,10,Hardware store,50+ pieces
+Hardware,Nylon standoffs,M3 various heights,1,5,5,AliExpress,Vibration dampening
+Hardware,Ballast weight,Lead/Tungsten,150,0.5,75,Fishing store,CoG balancing - estimate
+3D Printing,PETG filament,1kg spool,1,25,25,Local 3D print,Handle + accessories
+Tools,Metal saw,For carbon cutting,1,15,15,Hardware store,If don't have
+Tools,Drill bits,Carbon-safe bits,1,10,10,Hardware store,Set of 5
+Tools,Soldering iron,60W+,1,25,25,Electronics store,If don't have
+Tools,Multimeter,Digital,1,15,15,Electronics store,Essential for debugging
+Tools,CA glue,Super glue,1,5,5,Hardware store,Assembly
+Tools,Isopropyl alcohol,Cleaning,1,5,5,Pharmacy,Electronics cleaning
+Safety,Safety glasses,Impact resistant,1,10,10,Hardware store,MANDATORY
+Safety,Respirator mask,N95 or better,1,8,8,Hardware store,Carbon dust protection
+Safety,LiPo safety bag,Fireproof bag,1,12,12,Hobby shop,Battery charging/storage
+,,,,,,Total:,~660€
+,,,,,,Estimated Total (essentials only):,~480€,Excludes tools you may already own
